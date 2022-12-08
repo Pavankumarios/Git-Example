@@ -14,7 +14,7 @@ class ViewController: UIViewController {
    
     override func viewDidLoad() {
         super.viewDidLoad()
-        testLabel.text = "Welcome to Git Commit"
+        testLabel.text = "Welcome to the  Git Commit"
     }
     
     @IBAction func buttonAction(_ sender: Any) {
