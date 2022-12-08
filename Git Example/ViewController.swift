@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var testLabel: UILabel!
+    @IBOutlet weak var testLabel    : UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         testLabel.text = "Welcome to Git Commit"
